@@ -7,5 +7,3 @@
 Расположение файла: \Test_OSGRM\autotests\tests.
 
 Также прилагаются отчёты из Allure.
-
-https://github.com/ale-akokhov/Test_OSGRM

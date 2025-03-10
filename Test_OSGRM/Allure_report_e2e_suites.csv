@@ -1,0 +1,19 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Sat Mar 08 17:41:35 MSK 2025","Sat Mar 08 17:41:51 MSK 2025","16259","tests","test_e2e_doc_view","","","","test_e2e[Contractor-[data-placeholder=""\u041a\u043e\u043d\u0442\u0440\u0430\u0433\u0435\u043d\u0442""]-\u0418\u041f \u041b\u0443\u0449\u0438\u043a \u041a.\u0410.-[class=""mat-cell cdk-cell mat-tooltip-trigger cdk-column-uf_contractor mat-column-uf_contractor cell-uf_contractor matCell ng-star-inserted""]]","""
+Test case e2e view document
+"
+"passed","Sat Mar 08 17:41:55 MSK 2025","Sat Mar 08 17:42:11 MSK 2025","16189","tests","test_e2e_doc_view","","","","test_e2e[INN-[data-placeholder=""INN""]-5687913638-[class=""mat-cell cdk-cell mat-tooltip-trigger cdk-column-uf_inn mat-column-uf_inn cell-uf_inn matCell ng-star-inserted""]]","""
+Test case e2e view document
+"
+"passed","Sat Mar 08 17:42:32 MSK 2025","Sat Mar 08 17:42:49 MSK 2025","16809","tests","test_e2e_doc_view","","","","test_e2e[Date of document-[class=""mat-start-date mat-date-range-input-inner ng-untouched ng-pristine ng-valid""]-20.09.2019-[class=""mat-cell cdk-cell mat-tooltip-trigger cdk-column-uf_docdate mat-column-uf_docdate cell-uf_docdate matCell ng-star-inserted""]]","""
+Test case e2e view document
+"
+"passed","Sat Mar 08 17:41:13 MSK 2025","Sat Mar 08 17:41:31 MSK 2025","18330","tests","test_e2e_doc_view","","","","test_e2e[Document type-[data-placeholder=""\u0422\u0438\u043f \u0434\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u0430""]-\u0434\u043e\u0433\u043e\u0432\u043e\u0440-[class=""mat-cell cdk-cell mat-tooltip-trigger cdk-column-uf_doc_type mat-column-uf_doc_type cell-uf_doc_type matCell ng-star-inserted""]]","""
+Test case e2e view document
+"
+"passed","Sat Mar 08 17:40:53 MSK 2025","Sat Mar 08 17:41:10 MSK 2025","16803","tests","test_e2e_doc_view","","","","test_e2e[Barcode-[data-placeholder=""\u0428\u0442\u0440\u0438\u0445-\u043a\u043e\u0434 \u0434\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u0430""]-R029256105-[class=""mat-cell cdk-cell mat-tooltip-trigger cdk-column-uf_barcode mat-column-uf_barcode cell-uf_barcode matCell ng-star-inserted""]]","""
+Test case e2e view document
+"
+"passed","Sat Mar 08 17:42:14 MSK 2025","Sat Mar 08 17:42:29 MSK 2025","14397","tests","test_e2e_doc_view","","","","test_e2e[KPP-[data-placeholder=""\u041a\u041f\u041f""]-771801001-[class=""mat-cell cdk-cell mat-tooltip-trigger cdk-column-uf_KPP mat-column-uf_KPP cell-uf_KPP matCell ng-star-inserted""]]","""
+Test case e2e view document
+"
